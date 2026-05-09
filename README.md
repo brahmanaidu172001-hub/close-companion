@@ -5,7 +5,8 @@ A senior AI controller that quietly watches your books, flags the risks that wil
 
 This repo is a working demo of a feature an AI-native ERP could plausibly ship in months — built end-to-end in a weekend as a proof-of-work for the AI Product Manager role at DualEntry.
 
----
+---<img width="960" height="472" alt="Screenshot 2026-05-09 134613" src="https://github.com/user-attachments/assets/7f0c3ca4-fd46-4575-8a92-75bfb3eb2424" />
+
 
 ## Why this exists
 
@@ -17,6 +18,9 @@ The core insight DualEntry is built on — that month-end close is collapsing in
 - **Outputs a single Close Risk Score** with an estimated delay in days. The "are we good for Friday?" question, answered.
 
 The UX is intentionally adjacent to Linear / Vercel / Ramp — fast, dark, monospace where it matters, no accent colors that haven't earned their place.
+
+
+<img width="959" height="469" alt="Screenshot 2026-05-09 125055" src="https://github.com/user-attachments/assets/ff41f149-b97a-4acf-b2e6-03445fc9d4da" />
 
 ---
 
